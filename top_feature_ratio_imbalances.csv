@@ -1,0 +1,11 @@
+Feature A,Feature B,Mean |A/B| Ratio
+Feature_11,Feature_0_1_ratio,129.8992901113393
+Feature_5,Feature_0_1_ratio,118.4330847925423
+Feature_1,Feature_0_1_ratio,116.4174170238753
+Feature_2,Feature_0_1_ratio,116.05808714012157
+Feature_9,Feature_0_1_ratio,106.21924702237528
+Feature_8,Feature_0_1_ratio,95.87735684296882
+Feature_7,Feature_0_1_ratio,55.63548534784768
+Feature_3,Feature_11,53.93297958324422
+Feature_7,Feature_11,51.54521297964688
+Feature_4,Feature_11,47.12304371623479

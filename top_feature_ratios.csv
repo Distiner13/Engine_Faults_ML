@@ -1,0 +1,11 @@
+Feature A,Feature B,Mean |A/B| Ratio
+Acoustic_Frequency,Intake_Pressure,7.641444684115101
+Exhaust_Temperature,Intake_Pressure,7.123074515075633
+Surface_Temperature,Intake_Pressure,7.115732431191506
+Vibration_Amplitude,Exhaust_Temperature,6.667883124156567
+Vibration_Amplitude,Intake_Pressure,6.501222397795781
+RMS_Vibration,Acoustic_Frequency,6.425188735578395
+Surface_Temperature,Frequency_Band_Energy,6.340450996794794
+Vibration_Frequency,Acoustic_Frequency,6.231021816465655
+Exhaust_Temperature,Frequency_Band_Energy,6.220582957736984
+Vibration_Frequency,Frequency_Band_Energy,6.151554437625064

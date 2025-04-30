@@ -1,0 +1,11 @@
+Feature A,Feature B,Mean |A/B| Ratio
+Vibration_Amplitude,RMS_Vibration,
+Vibration_Amplitude,Vibration_Frequency,
+Vibration_Amplitude,Surface_Temperature,
+Vibration_Amplitude,Exhaust_Temperature,
+Vibration_Amplitude,Acoustic_dB,
+Vibration_Amplitude,Acoustic_Frequency,
+Vibration_Amplitude,Intake_Pressure,
+Vibration_Amplitude,Exhaust_Pressure,
+Vibration_Amplitude,Frequency_Band_Energy,
+Vibration_Amplitude,Amplitude_Mean,
